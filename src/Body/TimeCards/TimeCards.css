@@ -1,0 +1,118 @@
+.cards {
+    margin-top: 7rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.check-icon {
+    font-size: 40px;
+}
+
+.today {
+    height: 0;
+    width: 25rem;
+    padding-bottom: 15rem;
+    background-color: rgb(229, 225, 225);
+    margin-right: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.today-button {
+    margin-top: 11rem;
+}
+
+.today-circular-button {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(61, 171, 255);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.today-title {
+    margin-top: 3rem;
+    font-size: 25px;
+}
+
+.today-content {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.tomorrow {
+    height: 0;
+    width: 25rem;
+    padding-bottom: 15rem;
+    background-color: rgb(218, 218, 218);
+    margin-right: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tomorrow-button {
+    margin-top: 11rem;
+}
+
+.tomorrow-circular-button {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(61, 171, 255);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.tomorrow-title {
+    margin-top: 3rem;
+    font-size: 25px;
+}
+
+.tomorrow-content {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.always {
+    height: 0;
+    width: 25rem;
+    padding-bottom: 15rem;
+    background-color: rgb(229, 225, 225);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.always-button {
+    margin-top: 11rem;
+}
+
+.always-circular-button {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(61, 171, 255);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.always-title {
+    margin-top: 3rem;
+    font-size: 25px;
+}
+
+.always-content {
+    margin-top: 3rem;
+    text-align: center;
+}

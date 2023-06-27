@@ -1,0 +1,42 @@
+.tech-vision {
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.trusted,
+.technology {
+    display: inline;
+}
+
+.trusted {
+    font-weight: bold;
+    color: rgb(61, 171, 255);
+    font-size: 2rem;
+}
+
+.technology {
+    margin-left: 1rem;
+    font-size: 2rem;
+}
+
+.horz-line {
+    text-align: center;
+    border-bottom: 4px solid rgb(61, 171, 255);
+    width: 7rem;
+    margin: 0 auto;
+}
+
+.description {
+    margin-top: 3rem;
+    line-height: 1.5rem;
+}
+
+.descriptive-heading {
+    font-size: 1.5rem;
+}
+
+.description-body {
+    margin-top: 1.5rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
